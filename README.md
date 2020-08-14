@@ -1,5 +1,5 @@
 <h2 align="center">Hi :wave:, I'm Yannick</h2>
-<h4 align="center">21 y/o apprentice for application development based in Cologne/Germany</h4>
+<h4 align="center">21 y/o apprentice for application development at REWE Systems GmbH based in Cologne/Germany</h4>
 
 - :star: I’m currently working on **Monopoly**
 - :mag: I’m currently learning **Vaadin, Kubernetes**
