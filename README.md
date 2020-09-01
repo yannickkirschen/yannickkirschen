@@ -2,7 +2,8 @@
 <h4 align="center">21 y/o apprentice for application development at REWE Systems GmbH based in Cologne/Germany</h4>
 
 - :star: I’m currently working on **Monopoly** and an **accouting app** for private use
-- :mag: I’m currently learning **Kubernetes, Swing (no joke!), Vaadin**
+- :office: At work I deal with **Java (EE)**, **Spark**, **MapR**, **Kubernetes**
+- :mag: I’m currently learning **Kubernetes, Swing (no, really!), Vaadin**
 - :computer: All of my projects are available at [https://github.com/yannickkirschen/repositories](https://github.com/yannickkirschen/repositories)
 - :speech_balloon: **I have no special talent. I'm just passionately curious. - Albert Einstein**
 - In :heart: with **Java, Python, Nature**
