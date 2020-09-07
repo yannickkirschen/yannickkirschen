@@ -1,9 +1,9 @@
 <h2 align="center">Hi :wave:, I'm Yannick</h2>
 <h4 align="center">21 y/o apprentice for application development at REWE Systems GmbH based in Cologne/Germany</h4>
 
-- :star: I’m currently working on **Monopoly** and an **accouting app** for private use
-- :office: At work I deal with **Java (EE)**, **Spark**, **MapR**, **Kubernetes**
-- :mag: I’m currently learning **Kubernetes, Swing (no, really!), Vaadin**
+- :star: I’m currently working on **Monopoly** and an **accouting app** for private use and a **link shortener**
+- :office: At work I deal with **Java (EE)**, **Spark**, **MapR** and **Kubernetes**
+- :mag: I’m currently learning **Kubernetes** and **Swing (no, really!)**
 - :computer: All of my projects are available at [https://github.com/yannickkirschen/repositories](https://github.com/yannickkirschen/repositories)
 - :speech_balloon: **I have no special talent. I'm just passionately curious. - Albert Einstein**
 - In :heart: with **Java, Python, Nature**
