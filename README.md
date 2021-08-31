@@ -1,5 +1,5 @@
 <h2 align="center">Hi :wave:, I'm Yannick</h2>
-<h4 align="center">22 y/o junior software developer at REWE Systems GmbH based in Cologne/Germany</h4>
+<h4 align="center">22 y/o dual student for applied computer science at REWE Systems GmbH and DHBW Mannheim based in Cologne/Germany</h4>
 
 - :star: I’m currently working on **Monopoly** and a **UI framework** based on Swing.
 - :office: At work I deal with **Java (Java SE and Jakarta EE)**, **GitLab** and **Kubernetes**
