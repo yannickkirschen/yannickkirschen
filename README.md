@@ -6,6 +6,6 @@
 - :mag: I’m currently learning **Kubernetes**, and **Swing (no, really!)**
 - :computer: All of my projects are available at [https://github.com/yannickkirschen/repositories](https://github.com/yannickkirschen/repositories)
 - :speech_balloon: **I have no special talent. I'm just passionately curious. - Albert Einstein**
-- In :heart: with **Java, Nature**
+- In :heart: with **Java and Nature**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannickkirschen&show_icons=true&hide_border=true)
