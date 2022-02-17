@@ -3,9 +3,9 @@
 
 <p align="center">Check out my <a href="https://yannick.sh" target="_blank">homepage</a> and my <a href="https://yannick.sh/blog.html" target="_blank">blog</a>.</p>
 
-- :star: I’m currently working on **Monopoly** and a **UI framework** based on Swing.
-- :office: At work I deal with **Java (Java SE and Jakarta EE)**, **GitLab** and **Kubernetes**
-- :mag: I’m currently learning **Kubernetes**, and **Swing (no, really!)**
+- :star: I’m currently working on a **UI framework** based on Swing.
+- :office: At work I deal with **Java (Java SE, Jakarta EE, Spring Boot)**, **GitLab** and **Kubernetes**
+- :mag: I’m currently learning **Swing (no, really!)**
 - :computer: All of my projects are available at [https://github.com/yannickkirschen/repositories](https://github.com/yannickkirschen/repositories)
 - :speech_balloon: **I have no special talent. I'm just passionately curious. - Albert Einstein**
 - In :heart: with **Java and Nature**
