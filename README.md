@@ -4,7 +4,7 @@
 <p align="center">Check out my <a href="https://yannick.sh" target="_blank">homepage</a> and my <a href="https://yannick.sh/blog.html" target="_blank">blog</a>.</p>
 
 - :star: I’m currently working on [Phoenix](https://github.com/yannickkirschen/phoenix), a **UI framework** based on Swing.
-- :office: At work I deal with **Java (Java SE, Jakarta EE, Spring Boot)**, **GitLab** and **Kubernetes**
+- :office: At work I deal with **Java** (Java SE, Jakarta EE, Spring Boot), **GitLab** and **Kubernetes**
 - :mag: I’m currently learning **Swing**
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** and **Nature**
