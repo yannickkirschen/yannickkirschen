@@ -1,7 +1,7 @@
 <h2 align="center">Hi :wave:, I'm Yannick</h2>
 <h4 align="center">22 y/o dual student for applied computer science at REWE Systems GmbH and DHBW Mannheim based in Cologne/Germany :rainbow:</h4>
 
-<p align="center">Check out my <a href="https://yannick.sh" target="_blank">homepage</a> and my <a href="https://yannick.sh/blog.html" target="_blank">blog</a>.</p>
+<p align="center">Check out my <a href="https://yannick.sh" target="_blank">homepage</a> and my <a href="https://yannick.sh/blog.html" target="_blank">blog</a>. Feel free to connect with me on <a href="https://www.linkedin.com/in/yannick-kirschen-65543722a/">LinkedIn</a>.</p>
 
 - :star: I’m currently working on [Phoenix](https://github.com/yannickkirschen/phoenix), a **UI framework** based on Swing.
 - :office: At work I deal with **Java** (Java SE, Jakarta EE, Spring Boot), **GitLab** and **Kubernetes**
