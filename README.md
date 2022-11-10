@@ -8,5 +8,3 @@
 - :mag: I’m currently learning **Swing** and **Swift**.
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** and **Nature**.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannickkirschen&show_icons=true&hide_border=true)
