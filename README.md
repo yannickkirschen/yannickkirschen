@@ -5,6 +5,6 @@
 
 - :star: I’m currently working on an automation project for my **LEGO railway**.
 - :office: At work I deal with **Java** (Java SE, Jakarta EE, Spring Boot), **GitLab** and **Kubernetes**.
-- :mag: I’m currently learning **Swing** and **Swift**.
+- :mag: I’m currently learning **Swing** and **Rust**.
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** and **Nature**.
