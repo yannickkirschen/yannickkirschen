@@ -3,6 +3,6 @@
 
 - :star: I’m currently working on an automation project for my **LEGO railway** and in this context **PCB design**.
 - :office: At work I deal with **Java** (Java SE, Jakarta EE, Spring Boot), **GitLab**, **Kubernetes**, **Linux** (RHEL, Ansible, Shell).
-- :mag: I’m currently learning **Swing** and **Rust**.
+- :mag: I’m currently learning **PCB design** and **Rust**.
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** and **Nature**.
