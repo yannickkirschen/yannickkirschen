@@ -15,6 +15,6 @@ I enjoy photography :camera: as well.
 - [ddir](https://github.com/yannickkirschen/ddir): A tool to create a diff of two directories and sync changes. I have developed this to backup my photos.
 - [tidydev](https://github.com/yannickkirschen/tidydev): A tiny tool to analyze my development directory and clean it up.
 
-At vocational school, I implemented [chess](https://github.com/yannickkirschen/chess) in Java. And at university, a fellow student and I did a research project on a [interlocking system](https://github.com/yannickkirschen/study-project) for a LEGO® railway.
+At vocational school, I implemented [chess](https://github.com/yannickkirschen/chess) in Java. And at university, a fellow student and I did a research project on an interlocking system called [mini-rail](https://github.com/yannickkirschen/study-project) for a LEGO® railway.
 
 You can find me on LinkedIn: [in/yannickkirschen](https://linkedin.com/in/yannickkirschen).
