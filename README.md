@@ -7,7 +7,7 @@
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** :coffee:, **Railways** :steam_locomotive: and **Nature** :deciduous_tree:
 
-I enjoy photography :camera: as well.
+I enjoy photography :camera: as well. My favorite line of code is in the Apollo Guidance Computer: [LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179](https://github.com/chrislgarry/Apollo-11/blob/27e2acf88a6345e2b1064c8b006a154363937050/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179).
 
 <h4>:rocket: These are some of my software projects</h4>
 
