@@ -11,7 +11,7 @@ I enjoy photography :camera: as well. My favorite line of code is in the Apollo 
 
 <h4>:rocket: These are some of my software projects</h4>
 
-- [digital-rail](https://github.com/yannickkirschen/digital-rail): A digital interlocking system for model railways.
+- [digital-rail](https://github.com/yannickkirschen/digital-rail): Computer based interlocking for model railways. (Currently, I develop a new CBI using Golang)
 - [ddir](https://github.com/yannickkirschen/ddir): A tool to create a diff of two directories and sync changes. I have developed this to backup my photos.
 - [tidydev](https://github.com/yannickkirschen/tidydev): A tiny tool to analyze my development directory and clean it up.
 
