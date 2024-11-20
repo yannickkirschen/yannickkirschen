@@ -15,6 +15,7 @@ I enjoy photography :camera: as well. My favorite line of code is in the [Apollo
 - [ddir](https://github.com/yannickkirschen/ddir): A tool to create a diff of two directories and sync changes. I have developed this to backup my photos.
 - [manifesto](https://github.com/yannickkirschen/manifesto): A library to manage a declarative API.
 - [sip](https://github.com/yannickkirschen/sip): A library to fill up a Go struct with data from any sources.
+- [state-machine](https://github.com/yannickkirschen/state-machine): A finite-state machine in Go.
 
 At vocational school, I implemented [chess](https://github.com/yannickkirschen/chess) in Java. And at university, a fellow student and I did a research project on an interlocking system called [mini-rail](https://github.com/yannickkirschen/study-project) for a LEGO® railway.
 
