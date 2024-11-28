@@ -3,7 +3,7 @@
 
 - :star: I’m currently working on an automation project for my **LEGO® railway** and in this context **interlocking systems**.
 - :office: At work I deal with **Go**, **Java** (Java SE, Jakarta EE, Spring Boot), **GitLab**, **Kubernetes**, **Linux** (RHEL, Ansible, Shell).
-- :mag: I’m currently learning **C**, **railways**, **interlocking systems**.
+- :mag: I’m currently learning **railways**, **interlocking systems**, **[fyne.io](https://fyne.io)**.
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** :coffee:, **Railways** :steam_locomotive: and **Nature** :deciduous_tree:
 
