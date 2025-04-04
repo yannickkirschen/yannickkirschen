@@ -2,7 +2,7 @@
 <h4 align="center">Junior Software Engineer at REWE digital GmbH based in Cologne</h4>
 
 - :star: I’m currently working on an automation project for my **LEGO® railway** and in this context **interlocking systems**.
-- :office: At work I deal with **Go**, **Java**, **GitLab**, **Kubernetes** and **Linux** and I'm proud to manage ~7000 Kubernetes Clusters on the edge throughout Germany.
+- :office: At work I deal with **Go**, **Java**, **GitLab**, **Kubernetes** and **Linux** and I'm proud to manage ~7000 Kubernetes Clusters at the edge throughout Germany.
 - :mag: I’m currently learning **railways** and **interlocking systems**.
 - :speech_balloon: *I have no special talent. I'm just passionately curious. - Albert Einstein*
 - In :heart: with **Java** :coffee:, **Railways** :steam_locomotive: and **Nature** :deciduous_tree:
