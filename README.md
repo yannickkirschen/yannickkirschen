@@ -1,5 +1,5 @@
 <h2 align="center">Hi :wave:, I'm Yannick</h2>
-<h4 align="center">Junior Software Engineer at REWE digital GmbH based in Cologne</h4>
+<h4 align="center">Software Engineer at REWE digital GmbH based in Cologne</h4>
 
 - :star: I’m currently working on an automation project for my **LEGO® railway** and in this context **interlocking systems**.
 - :office: At work I deal with **Go**, **Java**, **GitLab**, **Kubernetes** and **Linux** and I'm proud to manage ~7000 Kubernetes Clusters at the edge throughout Germany.
